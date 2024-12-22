@@ -6,25 +6,27 @@
 ---
 
 ## 💡 Concept  
-The Flower Awakens is more than just a dress—it’s a celebration of individuality and achievement in a traditionally male-dominated field. The interactive nature of the dress symbolizes the power of connection, collaboration, and breaking barriers.
+The Flower Awakens is more than just a dress—it’s a celebration of individuality and achievement as a woman in engineering. The interactive nature of the dress symbolizes the power of connection, collaboration, and breaking barriers.
 
 ### Inspiration  
-The concept draws on the idea of telekinesis, giving the person in front of the dress the illusion of controlling its movements with their hand gestures. It’s playful, empowering, and awe-inspiring—a perfect metaphor for graduating with the skills to shape the world around you.
+The concept draws on the idea of 'The Force', giving the person in front of the dress the illusion of controlling its movements with their hand gestures. It’s playful, empowering, and awe-inspiring—a perfect metaphor for graduating with the skills to shape the world around you.
 
 ---
 
 ## 🛠️ Technical Overview  
 
 ### Components  
-- **Arduino UNO**: The brains behind the dress.  
-- **GY-521 Module (Accelerometer)**: Detects hand motion and translates it into commands for the dress.  
-- **White LEDs**: Mimicking stars, adding to the celestial and magical feel.  
-- **Resistors**: To control LED brightness and ensure circuit safety.
+- **Arduino UNO**: The microcontroller managing the entire system.  
+- **Servo Motors**: Drive the mechanical movements of the dress (e.g., petals or fabric).  
+- **16-Pin Servo Driver**: Enables precise control of multiple servo motors.  
+- **Webcam**: Captures hand movements from the user standing in front of the dress.  
+- **OpenCV (Python)**: Processes webcam video feed to detect hand gestures and control the dress.
 
 ### How It Works  
-1. The accelerometer tracks the motion of the person standing in front of the dress.  
-2. The data is processed by the Arduino UNO to control LED patterns and servo movements on the dress.  
-3. The result? A magical interaction that feels like controlling the dress with *The Force*.
+1. **Hand Detection**: The cam captures hand movements in real-time.  
+2. **Gesture Processing**: OpenCV processes the video feed to identify specific gestures.  
+3. **Motion Translation**: Detected gestures are sent to the Arduino, which controls the servo motors to move parts of the dress.  
+4. **Interactive Feedback**: The result is a magical experience where the user feels as though they are controlling the dress with *The Force*. 
 
 ---
 
@@ -41,7 +43,8 @@ The concept draws on the idea of telekinesis, giving the person in front of the 
 ---
 
 ## 📝 Credits  
-- **Maia Hirsch**: Designer, Software & Hardware Development  
+- **Maia Hirsch**: Designer, Software & Hardware Development
+- **Margaret Valera**: Photography 
 
 ---
 
