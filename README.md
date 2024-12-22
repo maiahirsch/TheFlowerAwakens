@@ -1,4 +1,4 @@
-# 🌸 The Flower Awakens — An Interactive Graduation Dress
+# 🌌 The Flower Awakens — An Interactive Graduation Dress
 
 🎓 **Graduation** is not just an event; it’s a milestone, a celebration, and a statement.  
 **The Flower Awakens** is my graduation dress: a wearable art piece that fuses **fashion**, **engineering**, and **interactive technology**. It gives the wearer and their audience the experience of controlling the dress via **hand motion**, as if wielding *The Force* or telekinesis.
