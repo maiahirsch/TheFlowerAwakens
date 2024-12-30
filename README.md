@@ -31,7 +31,11 @@ The concept draws on the idea of 'The Force', giving the person in front of the 
 ---
 
 ## 📷 Visuals  
-*(Add links or descriptions of images/videos here)*  
+<img width="550" alt="Screenshot 2024-12-30 at 6 21 55 PM" src="https://github.com/user-attachments/assets/0de2fa4a-b472-431b-8c3b-0576c66ee6f3" />
+
+![1I2A9100](https://github.com/user-attachments/assets/a3e389e2-050a-4e3c-9a2f-dc2ecad4d7a7)
+
+![1I2A9106](https://github.com/user-attachments/assets/7ce02c2a-1259-42c9-9aa4-6e83d79db8c3)
 
 ---
 
